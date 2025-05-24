@@ -1,0 +1,1 @@
+Creating custom Buttons. Button tegemiseks guugelda github react native, vali sealt otsi button`it. Vastuseks: https://github.com/facebook/react-native/blob/main/packages/react-native/Libraries/Components/Button.js, kus näited buttonitest.
