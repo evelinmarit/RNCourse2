@@ -24,7 +24,7 @@ const styles = StyleSheet.create({
         marginTop: 100,
         marginHorizontal: 24,
 		padding: 16,
-        backgroundColor: '#72063c',
+        backgroundColor: '#4e0329',
         borderRadius: 6, // corner
         elevation: 4, // Android-specific to add shadow
         shadowColor: 'black', // the following "shadow..." are iOS-specific 
