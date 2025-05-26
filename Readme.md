@@ -6,3 +6,6 @@ Mäng käivitub terminalis käsuga: npm start.
 
 Creating custom Buttons. Button tegemiseks guugelda github react native, vali sealt otsi button`it. Vastuseks: https://github.com/facebook/react-native/blob/main/packages/react-native/Libraries/Components/Button.js, kus näited buttonitest.
 
+Linear gradient saamiseks terminalis käsk: npx expo install expo-linear-gradient ja faili: import { LinearGradient } from 'expo-linear-gradient'; (p 56)
+
+ImageBackground pilt on võetud Unsplash-ist. (p 57)
