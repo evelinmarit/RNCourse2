@@ -1,4 +1,4 @@
-Tegemist on Udemy 30 tunnise kursuse Section 4-ga: https://www.udemy.com/course/react-native-the-practical-guide/learn/lecture/. 
+Tegemist on Udemy 28,5 tunnise kursuse Section 4-ga ja 5-ga: https://www.udemy.com/course/react-native-the-practical-guide/learn/lecture/. 
 Expo, react-native, node. 
 telefonis alla laadida äpp Expo Go.
 Projekti tulemuseks mobiilirakendus, numbrite 1-99 äraarvamise mäng.
